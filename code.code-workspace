@@ -21,6 +21,8 @@
       "**/storage/**",
       "**/vendor/**",
       "**/node_modules/**",
+      "**/resources/js/**",
+      "**/resources/css/**",
     ],
     "liveServer.settings.multiRootWorkspaceName": "pokerzone"
   },

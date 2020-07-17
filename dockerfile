@@ -50,4 +50,5 @@ COPY ./httpd.conf /etc/httpd/conf
 COPY ./openssl.cnf /etc/ssl
 COPY ./pokerzone /var/www/html
 COPY ./package.json /var/www/html
-CMD composer install && npm install && npm run dev && apache2ctl -D FOREGROUND
+
+RUN composer install
