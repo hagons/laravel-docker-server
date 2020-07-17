@@ -1,0 +1,21 @@
+{
+  "name": "qtum_funding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coinvest.kr/hagon3737/qtum_funding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-util": "^3.0.8",
+    "vinyl-ftp": "^0.6.1"
+  }
+}
