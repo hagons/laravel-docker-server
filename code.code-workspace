@@ -31,7 +31,8 @@
       "**/public/smarteditor/**",
       "**/public/editor/**",
       "**/public/data/editor/**"
-    ]
+    ],
+    "liveServer.settings.multiRootWorkspaceName": "pokerzone"
   },
   "launch": {
     "version": "0.2.0",
